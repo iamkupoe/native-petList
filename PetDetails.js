@@ -11,7 +11,7 @@ export default function PetDetails() {
           type: "Cat",
           age:"2 years old",
           location:"93 Shoreline Dr",
-          photo: require("./assets/pastel.jpeg"),
+          photo: require("./assets/pastel.jpg"),
           },
 
           {
